@@ -29,6 +29,14 @@
 
 📺 [YouTube Video](https://youtu.be/AS79oJ3Fcf0) for this repository.
 
+### Testing practiced in this project
+
+- Component unit tests with Jest and React Testing Library
+- Integration tests for adding, updating, and deleting todos
+- Accessible user interactions with `userEvent`
+- Regression tests for refactoring and edge cases
+- Mocked external `fetch` requests in `src/lib/__tests__/todoApi.test.ts`
+
 ### 📚 References
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [TypeScript Official Site](https://www.typescriptlang.org/)
